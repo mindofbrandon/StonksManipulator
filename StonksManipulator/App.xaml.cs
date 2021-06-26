@@ -9,7 +9,7 @@ namespace StonksManipulator
     public partial class App : Application
     {
 
-        public App()
+        public App()    // The start of the whole program(?)
         {
             InitializeComponent();
 
